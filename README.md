@@ -1,5 +1,5 @@
 
-![Design preview for the QR code component coding challenge](../single-price-grid/design/desktop-preview.png)
+![Design preview for the single-price-grid coding challenge](./design/desktop-preview.png)
 ## Author
 
 - Frontend Mentor - [@nemesisaquib](https://www.frontendmentor.io/profile/nemesisaquib)

@@ -1,4 +1,5 @@
 
+![Design preview for the QR code component coding challenge](./design/desktop-preview.jpg)
 ## Author
 
 - Frontend Mentor - [@nemesisaquib](https://www.frontendmentor.io/profile/nemesisaquib)
